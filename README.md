@@ -6,7 +6,7 @@ Topics include: AI Search, Machine Learning (ML), Deep Learning (DL) and Reinfor
 
 ### Structure:
 
-* `my-problems`: Problems created by me with multiple solutions and detailed explanaitions.
+* `my-problems`: Problems created by me with multiple solutions and detailed explanations.
 * `official-contests`: I consider official contests those that award prizes of any kind.
 * `olympiads`: National olympiads from Romania, Kazakhstan, Serbia and Georgia.
 * `practice-contests`: Contests that do not award prizes.
