@@ -1,0 +1,28 @@
+__pycache__/
+*.py[codz]
+*.log
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
